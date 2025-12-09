@@ -1,4 +1,6 @@
 # Noah Green
+- ndgreen@loyola.edu
+- 934-500-2010
 
 ### About Me
 I'm a student at Loyola University Maryland studying Business. Interested in the gym and sports. 
@@ -10,7 +12,7 @@ Loyola University Maryland
 ### Projects
 
 #### Project 1 
-- Learned the basics of using email
+- Learned the basics of using Outlook
 - <img width="926" height="515" alt="Assessment1_CS105 02_Making Sense of Data_BSH102 (1)" src="https://github.com/user-attachments/assets/c67eae34-cb18-4ada-ae95-dd9e750950ff" />
 - Assessment completed for CS105
 
